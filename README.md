@@ -1,4 +1,4 @@
-## Hi there 👋
+## 한신대학교 202678230 이차경입니다.
 
 <!--
 **rrthk/rrthk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
