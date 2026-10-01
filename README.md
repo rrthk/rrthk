@@ -5,6 +5,7 @@
 - 관심 분야: 인공지능
 - 목표: 타인의 명령을 듣지 않고도 자신의 의견을 전달하고 표현하는 인공지능 만들기
 ![Welcome GIF](ProudOfYouYesGIF.gif)
+
 ##기술
 - 할 수 있는 언어: C, Python
 - 배울 예정: JavaScript, C++
